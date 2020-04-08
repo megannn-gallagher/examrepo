@@ -28,7 +28,7 @@ SECRET_KEY = '8&x)c6!=zus7bqlif3^!*+tdc5)lqb!i+h7jfsz(y)d2k%^y#7'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [megangallagher10.pythonanywhere.com, ]
 
 STATICFILES_DIRS = [STATIC_DIR, ]
 
